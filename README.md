@@ -102,21 +102,27 @@ Profit prediction:
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/01f36032-732f-4fd8-b7e0-259f90ff53a9)
 
 Function output:
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/f9450973-8733-4fa4-a037-25aa384029d3)
 
 Gradient descent:
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/2ae5c070-223c-4d31-a45e-d8b63c095b7b)
 
 Cost function using Gradient Descent:
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/464a4a6c-e258-4b8e-b1be-e974e38d3c9f)
 
 Linear Regression using Profit Prediction:
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/e855b43f-fd25-4161-892b-a9ce3a4f4ade)
 
 Profit Prediction for a population of 35000:
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/e7d31c88-c41b-41da-8882-14c49bf58307)
 
 Profit Prediction for a population of 70000 :
+
 ![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/11717915-c7b8-4e8e-91d4-d91ee42106ae)
 
 ## Result:
