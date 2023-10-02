@@ -98,17 +98,26 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/efa51203-97bc-4cf9-b51a-7e06a0bf85df)
+Profit prediction:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/01f36032-732f-4fd8-b7e0-259f90ff53a9)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/422b0146-3571-4184-8d8c-cce053e0ff6e)
+Function output:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/f9450973-8733-4fa4-a037-25aa384029d3)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/7848292e-a217-4391-a82d-868bcb8c5bea)
+Gradient descent:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/2ae5c070-223c-4d31-a45e-d8b63c095b7b)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/f7c63faf-7cf5-48d0-83a4-323b1845d519)
+Cost function using Gradient Descent:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/464a4a6c-e258-4b8e-b1be-e974e38d3c9f)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/f4e702ad-0f76-4852-af41-062b821cf2ac)
+Linear Regression using Profit Prediction:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/e855b43f-fd25-4161-892b-a9ce3a4f4ade)
 
-![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/24110f4a-76df-414d-a813-d636bf01376b)
+Profit Prediction for a population of 35000:
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/e7d31c88-c41b-41da-8882-14c49bf58307)
+
+Profit Prediction for a population of 70000 :
+![image](https://github.com/jeyaqbalan7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393851/11717915-c7b8-4e8e-91d4-d91ee42106ae)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
